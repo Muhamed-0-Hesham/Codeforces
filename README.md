@@ -11,6 +11,7 @@ Codeforces/
 └── problemset-contest/       # Problemset solutions, grouped by difficulty rating
     ├── 800/
     └── 900/
+    └── 1000/
 ```
 
 Each solution is a separate file named after the problem.
@@ -54,6 +55,7 @@ Standalone Codeforces problems, organized by rating:
 |--------|--------|
 | 800 | `problemset-contest/800/` |
 | 900 | `problemset-contest/900/` |
+| 1000 | `problemset-contest/1000/` |
 
 More ratings will be added as I progress.
 
