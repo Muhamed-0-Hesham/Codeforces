@@ -29,6 +29,4 @@ int main()
     sum++;
    }
 cout << sum;
-        
-
 }
