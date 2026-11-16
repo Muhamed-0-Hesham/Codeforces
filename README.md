@@ -31,7 +31,7 @@ Covers the basics of problem solving.
 - [x] Sheet #4 – Strings
 - [x] Sheet #5 – Functions
 - [ ] Sheet #6 – Math & Geometry *(in progress)*
-- [ ] Sheet #7 – Recursion
+- [x] Sheet #7 – Recursion
 - [ ] Sheet #8 – General Easy
 - [ ] Sheet #9 – General Medium
 - [ ] Sheet #10 – General Hard
@@ -44,7 +44,7 @@ This sheet starts with the basics (data types, conditions, loops, arrays, string
 - [x] vector
 - [x] sort / algorithms
 - [ ] map
-- [ ] set
+- [x] set
 - [x] stack / queue
 
 ## 3. Problemset
